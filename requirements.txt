@@ -1,0 +1,13 @@
+requests
+bs4
+chromadb 
+openai
+sentence-transformers
+transformers
+graphrag
+haystack
+pyPDF2
+streamlit
+langchain
+shap
+uuid
