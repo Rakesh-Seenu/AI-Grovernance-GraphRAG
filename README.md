@@ -4,6 +4,11 @@
 
 This repository contains a Streamlit-based chatbot that answers questions about AI governance and regulations by scraping, processing, and storing relevant articles in a ChromaDB vector store. The chatbot uses advanced natural language processing techniques to retrieve answers strictly from the scraped articles, with no external knowledge. The project employs the LangChain framework, Ollama embeddings, and ChromaDB for efficient document retrieval.
 
+## Architecture
+
+![image](https://github.com/user-attachments/assets/26cee0a9-c76f-4883-b54e-580d02264cd7)
+
+
 ## Features
 
 - **Web Scraping:** Automatically scrapes AI governance-related articles from the web.
